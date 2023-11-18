@@ -1,0 +1,11 @@
+*
+!*/
+
+!.gitignore
+!.gitattributes
+
+!*.nix
+!/flake.lock
+
+!/LICENSE
+!README.md
